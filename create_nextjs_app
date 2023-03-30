@@ -1,0 +1,16 @@
+# How to create a nextJS app from scratch
+
+1. `npx create-next-app`
+
+# How to create a nextJS app from vercel example
+
+1. `npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+`
+
+2. `CD` into the folder
+
+3. `npm install`
+
+4. `npm run dev`
+
+5. Open http://localhost:3000
